@@ -48,3 +48,7 @@ button {
     font-weight: bold;
 }
 
+#reset-btn {
+    background: lightskyblue;
+}
+
